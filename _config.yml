@@ -1,6 +1,6 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://spitimage.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
@@ -11,21 +11,21 @@ theme:
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
-    github: swanson
+    github: spitimage
     #bitbucket: philipj
-    hacker_news: swanson
+    #hacker_news: swanson
     #stackexchange: 348619
     #stackoverflow: 348619
-    twitter: _swanson
+    twitter: spitimage
     #facebook: zuck
     #tumblr: animalygifs
-    #linkedin: philipjagielski
+    linkedin: aaronmnielsen
     #gplus: 110552447039675960964
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
-  tagline: "weak opinions, strongly held"
+  name: Aaron Nielsen
+  email: spitimage@gmail.com
+  tagline: "Collecting and connecting the dots..."
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
