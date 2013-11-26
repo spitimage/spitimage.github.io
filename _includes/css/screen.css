@@ -252,3 +252,12 @@ i.fa-hn {
   font-size: smaller;
   padding-bottom: 10px
 }
+
+.tag {
+    padding: .3em;
+    background-color: #eee;
+    border-radius: .5em;
+    color: #3498db;
+    font-size: .8em;
+}
+
