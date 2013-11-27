@@ -1,0 +1,38 @@
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="/assets/js/purl.js"></script>
+<script>
+    $(function() {
+        // See if we're entering this page with a tag filter
+        var tag = purl().param('tag');
+        var filteredUrls = {};
+        if (tag) {
+            // Now get the site map (often from cache)
+            $.get('/site.json', function(data) {
+                // Filter posts that don't match the tag
+                data.forEach(function(item) {
+                    var tags = item.tags;
+                    if (tags) {
+                       for (var i = 0; i < tags.length; i++) {
+                            if (tags[i] == tag) {
+                                filteredUrls[item.url] = item;
+                                break;
+                            }
+                        }
+                    }
+                });
+
+                // Hide non-matching posts
+                $('#blog-posts > li > a').each(function() {
+                    var href = $(this).attr('href');
+                    if (!filteredUrls[href]) {
+                        $(this).parent().hide();
+                    }
+                });
+            })
+
+            // Add a tag title
+            $('#tag-title').html('<span class="tag">' + tag + '</span>');
+        }
+
+    })
+</script>

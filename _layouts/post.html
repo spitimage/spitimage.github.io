@@ -4,6 +4,9 @@ layout: default
 
 <p class="meta">
     {{ page.date | date: "%B %d, %Y" }}
+    <a href="/">
+        <i class="home fa fa-home"></i>
+    </a>
 </p>
 
 
@@ -16,7 +19,7 @@ layout: default
 <p>
     <h3>Tags</h3>
     {% for tag in page.tags %}
-    <span class="tag">{{ tag }}</span>
+    <span class="tag"><a href="/index.html?tag={{ tag }}">{{ tag }}</a></span>
     {% endfor %}
 </p>
 
