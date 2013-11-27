@@ -63,7 +63,13 @@ Follow me:
   </a>
   {% endif %}
 
-  <a title="RSS feed" id="rss" href="/atom.xml">
+    {% if site.theme.social.youtube %}
+    <a title="{{ site.theme.name }} on YouTube" href="http://www.youtube.com/channel/{{ site.theme.social.youtube }}">
+        <i class="fa fa-youtube-square"></i>
+    </a>
+    {% endif %}
+
+    <a title="RSS feed" id="rss" href="/atom.xml">
     <i class="fa fa-rss-square"></i>
   </a>
 </div>
