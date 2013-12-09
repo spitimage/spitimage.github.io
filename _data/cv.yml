@@ -1,0 +1,311 @@
+name: Aaron Nielsen
+home: spitimage.com
+email: spitimage@gmail.com
+summary:
+ text: Full stack developer. Versatile leader and builder. Driven by the magic at the intersection of great relationships and great technology. Always reconciling the inner entrepreneur with the inner geek. Prototype builder and pathfinder. Intensely focused on actual execution of the overall solution.
+
+objective:
+ text: Seeking to contribute a diverse skill set and a wide experience level to a team with a mission bigger than itself.
+
+skills:
+ - name: Languages
+   items:
+    - name: JavaScript
+    - name: Python
+    - name: Java
+    - name: C++
+    - name: SQL
+    - name: Bash
+
+ - name: Back End Technologies
+   items:
+    - name: Node
+    - name: Django
+    - name: Tornado
+
+ - name: Front End Technologies
+   items:
+    - name: AngularJS
+    - name: BackboneJS
+    - name: D3
+    - name: JQuery
+    - name: ExtJS
+
+ - name: Web Standards
+   items:
+    - name: WebSockets
+    - name: HTML5
+    - name: CSS3
+
+ - name: Databases
+   items:
+    - name: MongoDB
+    - name: PostgreSQL
+    - name: PostGIS
+    - name: Redis
+
+ - name: Platforms
+   items:
+    - name: AWS
+    - name: Digital Ocean
+    - name: Cloud Foundry
+    - name: KVM
+
+ - name: Mobile
+   items:
+    - name: Android
+    - name: HTML5 Hybrid
+
+ - name: Testing
+   items:
+    - name: Mocha
+    - name: Karma
+
+ - name: Configuration Management
+   items:
+    - name: Git
+    - name: Subversion
+
+professional:
+ - name: Blooco
+   link: http://blooco.com
+   location: Colorado Springs, CO
+   start: 10/2011
+   end: Present
+   title: Founder and Principal
+   summary: Consultant, CTO for hire, and software development contractor.
+   projects:
+
+    - name: Financial Dashboard SaaS
+      description: Built a private web application to display relevant infographics and analysis tools related to the commercial real estate industry. Added the ability to produce high-quality hard copies of existing dashboard displays. Other features included access control, administration portal, and user management.
+      skills:
+       - AngularJS
+       - MongoDB
+       - ExpressJS
+       - D3
+       - PhantomJS
+
+    - name: Recycling Rewards Mobile Application
+      link: http://beecorewards.com/
+      description: Built 3 hybrid consumer-facing applications and tied them to a parse.com backend. Created a native mobile plugin to perform image manipulation and QR code scans.
+      skills:
+       - AngularJS
+       - Android
+       - Phone Gap
+       - REST APIs
+
+    - name: Remote Care Monitoring Mobile Application
+      link: http://kidreports.com/
+      description: Converted an existing Sencha Touch mobile application to a hybrid solution based on more typical web application workflows. Since deployment in mid 2013, this new front-end architecture has successfully supported white-labeling, easy extension, and simple integration with several other crucial technologies.
+      skills:
+       - AngularJS
+       - Trigger.io
+
+    - name: Sports and Recreation SaaS
+      link: http://iwanamaker.com/
+      description: Built a private web application for sporting events administration. Enabled event coordinators to schedule events, configure events, and assign event participants.
+      skills:
+       - BackboneJS
+       - ExpressJS
+       - MongoDB
+
+    - name: Cloud-Based-Lighting Control Startup
+      link: http://smartqloud.com/
+      description: Served as interim CTO to an early stage internet-of-things startup. Built the initial end-to-end prototype that was used to prove the business model and acquire further funding. Created the system architecture for the minimum viable product. Developed custom modules for the embedded system, REST and WebSocket protocols for real time cloud messaging, message routing infrastructure, user accounts management, and embedded device enumeration and association.
+      skills:
+       - WebSockets
+       - MongoDB
+       - Redis
+       - Embedded C
+
+    - name: Oil and Gas GIS SaaS
+      link: http://spitimage.com/project/2012/03/05/well-gis.html
+      description: Built a private web application to perform GIS-based data analysis on continually updating data sets. Application performed periodic data updates, user-initiated data transformation tasks, and GIS visualizations.
+      skills:
+       - Django
+       - PostGIS
+       - RabbitMQ
+       - Celery
+       - JQuery
+       - Google Maps
+
+    - name: Signal Analysis
+      link: http://spitimage.com/project/2011/12/20/html5-realtime-plotting.html
+      description: Built a standards-based web UI as a front end to various communications and signal processing equipment. Also developed a proxy software service to translate between proprietary interfaces and a realtime JSON message-based protocol.
+      skills:
+       - HTML5 Canvas
+       - JQuery
+       - WebSockets
+       - Tornado
+       - C++ Integration
+
+    - name: Eyeris
+      link: https://github.com/spitimage/eyeris
+      description: Built a prototype system to explore an approach to reducing the world's dependency on passwords. Involved native Android PKI development and server-side authorization services. Tried and failed to secure a federal grant through NSTIC.
+      skills:
+       - Android
+       - Django
+       - PKI
+
+
+ - name: Intelligent Software Solutions
+   link: http://issinc.com
+   location: Colorado Springs, CO
+   start: 12/2010
+   end: 10/2011
+   title: Senior Software Engineer
+   summary: Responsible for several subsystems in support of Air Force space-related contracts.
+   projects:
+    - name: Account Management
+      description: Developed the account management subsystem for a large space situational awareness system. Supported typical workflows such as email confirmations, password resets, and administration consoles.
+      skills:
+       - ExtJS
+       - JEE
+
+    - name: Secure Data Traversal
+      description: Developed the access-control mechanisms for secure data transfer between classified environments.
+      skills:
+       - JEE
+       - SFTP
+       - PKI
+
+ - name: RT Logic
+   link: http://rtlogic.com
+   location: Colorado Springs, CO
+   start: 12/2008
+   end: 12/2010
+   title: Systems Engineer
+   summary: Provided insight and leadership during a critical growth period for the company. Collaborated with senior members of technical staff for prioritization and allocation of R&D funds. Assisted management with staffing challenges by interviewing and screening employment candidates.
+   projects:
+    - name: Iridium
+      description: Software architect and principal software developer for the first telephony solution offered by RT Logic. Conceptualized and created a successful product that exceeded customer expectations and met stringent latency requirements. Established an excellent relationship with the Iridium customer and partners, paving the way for further business development related to the next Iridium space and telephony network.
+      skills:
+       - Linux IPC
+       - Linux Device Drivers
+       - Custom FPGA Interfaces
+
+    - name: Messaging Translation
+      description: Developed a highly configurable message translation device. Supported MIL-STD-1553, SNMP, and several proprietary network protocols.
+      skills:
+       - Linux IPC
+       - Linux System Software
+
+ - name: Raytheon Missile Systems
+   link: http://www.raytheon.com/
+   location: Tucson, AZ
+   start: 11/2004
+   end: 12/2008
+   title: Senior Software Engineer II
+   summary: Contributed technical leadership and an innovative mindset for a variety of DOD and internal research customers.
+   projects:
+    - name: TSB
+      description: Sole champion and developer of the tactical service bus (TSB) IRAD product, a lightweight enterprise service bus based on the latest in SOA technology. TSB was delivered as part of Raytheon's unmanned aerial vehicle systems in support of several capture and IRAD efforts. The TSB has been adopted as core infrastructure by RMS IT as the future in providing customers with a service-oriented quick integration platform.
+      skills:
+       - SOA
+       - JEE
+
+    - name: Automatic Target Recognition
+      description: Pathfinder for several IRAD efforts related to automatic target recognition technology. Developed custom middleware frameworks for high performance distributed computing. Leveraged existing integration technologies for demonstration and deployment of capability. Produced a consistent architecture to enable the integration of complex algorithms into modern SOA systems.
+      skills:
+       - CORBA
+       - Matlab Integration
+
+    - name: Bike Shop
+      description: Selected to represent Raytheon's software capability on a specialized UAV-related IRAD project. Built prototype software systems to integrate core algorithms such as guidance, navigation, route planning, and mission planning.
+      skills:
+       - Swing
+       - JNI
+       - Windows IPC
+
+    - name: AMRAAM
+      description: Recognized as a critical technical resource on embedded systems by the AMRAAM program management. Key subsystem designer for telemetry, messaging, timing and diagnostics in a constrained embedded environment. Introduced object oriented concepts where appropriate to realize developmental quality attributes.
+      skills:
+       - VxWorks RTOS
+       - Integrity RTOS
+       - ARM Architecture
+       - Embedded C++
+
+ - name: Soneticom
+   link: http://www.drs.com/
+   location: Melbourne, FL
+   start: 10/2002
+   end: 10/2004
+   title: Senior Software Engineer
+   summary: Participated in the strategic deployment of several successful prototyping efforts. Involved in all aspects including vision, planning, bidding, budgeting, managing, design, implementation, testing, and deployment. (Soneticom eventually became acquired by DRS technologies.)
+   projects:
+
+    - name: Commercial Flight Entertainment System
+      description: Developed the initial software for a custom digital radio receiver. Software performed IP multicast demultiplexing, stereo audio PCM conversion, rate buffering, serial I/O to arm pad controls, and processing of central control and status.
+      skills:
+       - Embedded Linux
+       - Linux Device Drivers
+       - Custom FPGA Interfaces
+       - IP Networking
+
+    - name: Signal Acquisition Platform
+      description: Extended and maintained the company's flagship DSP product that served as a baseline to other integrated systems.
+      skills:
+       - MicroC/OS-II
+       - Custom FPGA Interfaces
+       - TCP/IP Implementation
+
+
+ - name: Command Technologies
+   link: http://www.commtechinc.com/
+   location: Kennedy Space Center, FL
+   start: 09/2000
+   end: 10/2002
+   title: Software Engineer
+   summary: Space shuttle checkout and launch control system. Rapidly promoted to a senior development position normally requiring additional formal qualifications. Frequently requested by top engineers as a team member for design prototyping.
+   projects:
+    - name: Command Processing Infrastructure
+      description: Developed proprietary middleware for the routing, validation, prioritizing, and archiving of system commands and application messages. Helped develop a plugin to enable CORBA to run on NASA's proprietary network protocol.
+      skills:
+       - CORBA
+       - ACE/TAO Internals
+
+    - name: System Services
+      description: Developed several baseline system services in support of NASA applications.
+      skills:
+       - Solaris
+       - C++ OOA/OOD
+       - Architecture
+
+ - name: Harris
+   link: http://harris.com/
+   location: Melbourne, FL
+   start: 04/1999
+   end: 09/2000
+   title: Software Engineer
+   summary: Junior individual contributor. Exposed to a wide technical landscape and learned from some of the best embedded software engineers in the industry.
+   projects:
+
+    - name: Embedded System Test Sets
+      description: Designed and developed an extensive customized electronics test set. When fielded, it correctly screened several thousand units for functionality.
+      skills:
+       - Windows MFC
+       - Windows I/O
+
+    - name: Central Maintenance Depot
+      description: Designed and developed a web application for gathering flight and passenger data, performing analytics, and subsequently generating reports for flight maintenance and customer billing.
+      skills:
+       - IIS
+       - ASP
+
+education:
+ colleges:
+  - name: Colorado School of Mines
+    link: http://mines.edu/
+    year: 1997
+    degree: BSEE
+
+certsAndAwards:
+ - name: CompTIA Security+
+   year: 2010
+ - name: Raytheon Excellence in Technology Award
+   year: 2007
+ - name: Microsoft Certified Professional
+   year: 1998
+
+clearance:
+ name: TS/SCI
