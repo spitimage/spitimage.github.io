@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - mobile
+- c
 - c++
 ---
 
