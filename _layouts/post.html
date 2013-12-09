@@ -19,7 +19,7 @@ layout: default
 <p>
     <h3>Tags</h3>
     {% for tag in page.tags %}
-    <span class="tag"><a href="/index.html?tag={{ tag }}">{{ tag }}</a></span>
+    <span class="tag"><a href="/index.html?tag={{ tag | cgi_escape }}">{{ tag }}</a></span>
     {% endfor %}
 </p>
 
