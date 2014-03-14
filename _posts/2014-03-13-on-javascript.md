@@ -33,7 +33,7 @@ Maybe [Douglas][douglas] says it best.
 Once javascript is mastered, productivity soars. That's what [these][prod] folks say, anyway.
 
 ## Simply Ubiquitous
-This VM is showing up everywhere. It has already thrived on virtually every PC/Mac/*nix box for years now (browsers). Lately, the VM has found its way to other places too...
+This VM is showing up everywhere. It has already thrived on virtually every PC/Mac/\*nix box for years now (browsers). Lately, the VM has found its way to other places too...
 
 ### Node.js
 [Node][node] is a phenomenon. Even if you hate its guts, you can't ignore the noise. As I write this today, node is beginning the slide into the enterprise early adopters. See [here][adoption] and [here][adoption2]. These aren't ignorant technologists playing with a toy language.
