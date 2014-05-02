@@ -155,6 +155,10 @@ nav hr {
   font-weight: 600;
 }
 
+.logo {
+    margin: 20px;
+}
+
 .content {
   font: 400 16px/22px "open sans", sans-serif;
   border-left: 1px solid #DDD;
