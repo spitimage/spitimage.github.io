@@ -46,6 +46,7 @@ skills:
 
  - name: Platforms
    items:
+    - name: Docker
     - name: AWS
     - name: Digital Ocean
     - name: Cloud Foundry
@@ -60,6 +61,8 @@ skills:
    items:
     - name: Mocha
     - name: Karma
+    - name: Selenium
+    - name: Protractor
 
  - name: Configuration Management
    items:
