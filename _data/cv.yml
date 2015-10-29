@@ -10,7 +10,7 @@ objective:
 skills:
  - name: Languages
    items:
-    - name: JavaScript
+    - name: Javascript
     - name: Python
     - name: Java
     - name: C++
@@ -19,12 +19,14 @@ skills:
 
  - name: Back End Technologies
    items:
-    - name: Node
+    - name: NodeJS
+    - name: ReactJS
     - name: Django
     - name: Tornado
 
  - name: Front End Technologies
    items:
+    - name: ReactJS
     - name: AngularJS
     - name: BackboneJS
     - name: D3
@@ -36,18 +38,21 @@ skills:
     - name: WebSockets
     - name: HTML5
     - name: CSS3
+    - name: OAuth 2.0
 
  - name: Databases
    items:
     - name: MongoDB
     - name: PostgreSQL
     - name: PostGIS
+    - name: MySQL
     - name: Redis
 
  - name: Platforms
    items:
     - name: Docker
     - name: AWS
+    - name: GCE
     - name: Digital Ocean
     - name: Cloud Foundry
     - name: KVM
@@ -78,6 +83,17 @@ professional:
    title: Founder and Principal
    summary: Consultant, CTO for hire, and software development contractor.
    projects:
+
+    - name: Automated Lighting Controls
+      link: http://www.dialight.com/
+      description: Architected and prototyped a cloud-based messaging platform for automated control and status of smart lighting for industrial environments. Developed simplified bridging protocols for all layers between low-power embedded systems and end-user UX terminals.
+      skills:
+       - AngularJS
+       - ExpressJS
+       - ZeroMQ
+       - C++
+       - Python
+       - Docker
 
     - name: Financial Dashboard SaaS
       description: Built a private web application to display relevant infographics and analysis tools related to the commercial real estate industry. Added the ability to produce high-quality hard copies of existing dashboard displays. Other features included access control, administration portal, and user management.
@@ -113,7 +129,6 @@ professional:
        - MongoDB
 
     - name: Cloud-Based-Lighting Control Startup
-      link: http://smartqloud.com/
       description: Served as interim CTO to an early stage internet-of-things startup. Built the initial end-to-end prototype that was used to prove the business model and acquire further funding. Created the system architecture for the minimum viable product. Developed custom modules for the embedded system, REST and WebSocket protocols for real time cloud messaging, message routing infrastructure, user accounts management, and embedded device enumeration and association.
       skills:
        - WebSockets
@@ -149,6 +164,34 @@ professional:
        - Android
        - Django
        - PKI
+
+
+ - name: Quantum Metric
+   link: https://www.quantummetric.com
+   location: Monument, CO
+   start: 07/2015
+   end: 10/2015
+   title: Senior Software Engineer
+   summary: Early contributor to an emerging web analytics and customer experience startup.
+   projects:
+    - name: Customer Account Management
+      description: Created the SaaS application for customer onboarding, authentication, authorization, and single sign-on.
+      skills:
+       - ExpressJS
+       - Docker
+       - MySQL
+       - OAuth2
+    - name: Analytics UI
+      description: Developed key UX components for graphical analysis of large datasets related to customer experience and revenue impact.
+      skills:
+       - ES6
+       - ReactJS
+       - ExpressJS
+       - D3
+       - DCJS
+       - MySQL
+       - Docker
+       - OAuth2
 
 
  - name: Intelligent Software Solutions
