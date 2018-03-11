@@ -21,7 +21,7 @@ skills:
  - name: Back End Technologies
    items:
     - name: NodeJS
-    - name: ReactJS
+    - name: ExpressJS
     - name: Django
     - name: Tornado
 
