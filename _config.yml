@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: pygments
+highlighter: rouge
 url: http://spitimage.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
