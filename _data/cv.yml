@@ -14,6 +14,7 @@ skills:
     - name: Python
     - name: Java
     - name: C++
+    - name: C
     - name: SQL
     - name: Bash
 
@@ -27,6 +28,7 @@ skills:
  - name: Front End Technologies
    items:
     - name: ReactJS
+    - name: Redux
     - name: AngularJS
     - name: BackboneJS
     - name: D3
@@ -46,21 +48,26 @@ skills:
     - name: PostgreSQL
     - name: PostGIS
     - name: MySQL
+    - name: SQLite
     - name: Redis
+    - name: Neo4j
 
  - name: Platforms
    items:
     - name: Docker
+    - name: Kubernetes
     - name: AWS
     - name: GCE
     - name: Digital Ocean
     - name: Cloud Foundry
     - name: KVM
+    - name: VSphere
 
  - name: Mobile
    items:
     - name: Android
     - name: HTML5 Hybrid
+    - name: PWAs
 
  - name: Testing
    items:
@@ -68,6 +75,7 @@ skills:
     - name: Karma
     - name: Selenium
     - name: Protractor
+    - name: Junit
 
  - name: Configuration Management
    items:
@@ -83,6 +91,32 @@ professional:
    title: Founder and Principal
    summary: Consultant, CTO for hire, and software development contractor.
    projects:
+
+    - name: Open Source Governance and DevSecOps Automation
+      link: https://www.sonatype.com/
+      description: Improved and extended the core data analytics pipeline infrastructure to increase processing capacity and enable infinite scaling for the industry leader in sofware supply chain management.
+      skills:
+       - AWS Lambda
+       - AWS Elastic Beanstalk
+       - AWS SQS
+       - AWS RDS
+       - PostgreSQL
+       - Airflow
+       - Luigi
+       - Neo4j
+
+    - name: Fitness Apparel E-Commerce
+      link: https://www.underarmour.com/en-us/
+      description: Augmented multiple development teams in building the next generation of microservices for order flow, fraud detection, and recommendation engines. Developed front-end prototypes for various marketing campaigns.
+      skills:
+       - NodeJS
+       - PostgreSQL
+       - Kafka
+       - gRPC
+       - Protocol Buffers
+       - Docker
+       - Kubernetes
+       - ReactJS
 
     - name: Automated Lighting Controls
       link: http://www.dialight.com/
