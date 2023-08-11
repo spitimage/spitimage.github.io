@@ -10,11 +10,12 @@ objective:
 skills:
  - name: Languages
    items:
-    - name: Javascript
     - name: Python
-    - name: Java
+    - name: Javascript
+    - name: Typescript
     - name: C++
     - name: C
+    - name: Java
     - name: SQL
     - name: Bash
 
@@ -24,6 +25,7 @@ skills:
     - name: ExpressJS
     - name: Django
     - name: Tornado
+    - name: Remix
 
  - name: Front End Technologies
    items:
@@ -51,17 +53,20 @@ skills:
     - name: SQLite
     - name: Redis
     - name: Neo4j
+    - name: InfluxDB
 
  - name: Platforms
    items:
     - name: Docker
     - name: Kubernetes
     - name: AWS
-    - name: GCE
+    - name: Azure
+    - name: Openstack  
+    - name: Google Compute Engine
     - name: Digital Ocean
     - name: Cloud Foundry
     - name: KVM
-    - name: VSphere
+    - name: vSphere
 
  - name: Mobile
    items:
@@ -92,6 +97,18 @@ professional:
    summary: Consultant, CTO for hire, and software development contractor.
    projects:
 
+    - name: Satellite Communications Open Architecture
+      link: https://www.kratosdefense.com/
+      description: Introduced new and effective approaches to DevSecOps. Unleashed hidden business potential by providing unique and platform-agnostic solutions. 
+      skills:
+       - Rancher Kubernetes
+       - Rancher Harbor
+       - Azure
+       - vSphere
+       - Openstack
+       - Ansible Automation Platform
+       - Bamboo
+       
     - name: Open Source Governance and DevSecOps Automation
       link: https://www.sonatype.com/
       description: Improved and extended the core data analytics pipeline infrastructure to increase processing capacity and enable infinite scaling for the industry leader in sofware supply chain management.
