@@ -89,7 +89,7 @@ skills:
 
 professional:
  - name: Blooco
-   link: http://blooco.com
+   link: https://blooco.com
    location: Colorado Springs, CO
    start: 10/2011
    end: Present
@@ -136,7 +136,7 @@ professional:
        - ReactJS
 
     - name: Automated Lighting Controls
-      link: http://www.dialight.com/
+      link: https://www.dialight.com/
       description: Architected and prototyped a cloud-based messaging platform for automated control and status of smart lighting for industrial environments. Developed simplified bridging protocols for all layers between low-power embedded systems and end-user UX terminals.
       skills:
        - AngularJS
@@ -156,7 +156,7 @@ professional:
        - PhantomJS
 
     - name: Recycling Rewards Mobile Application
-      link: http://beecorewards.com/
+      link: https://beecorewards.com/
       description: Built 3 hybrid consumer-facing applications and tied them to a parse.com backend. Created a native mobile plugin to perform image manipulation and QR code scans.
       skills:
        - AngularJS
@@ -165,14 +165,14 @@ professional:
        - REST APIs
 
     - name: Remote Care Monitoring Mobile Application
-      link: http://kidreports.com/
+      link: https://kidreports.com/
       description: Converted an existing Sencha Touch mobile application to a hybrid solution based on more typical web application workflows. Since deployment in mid 2013, this new front-end architecture has successfully supported white-labeling, easy extension, and simple integration with several other crucial technologies.
       skills:
        - AngularJS
        - Trigger.io
 
     - name: Sports and Recreation SaaS
-      link: http://iwanamaker.com/
+      link: https://iwanamaker.com/
       description: Built a private web application for sporting events administration. Enabled event coordinators to schedule events, configure events, and assign event participants.
       skills:
        - BackboneJS
@@ -188,7 +188,7 @@ professional:
        - Embedded C
 
     - name: Oil and Gas GIS SaaS
-      link: http://spitimage.com/project/2012/03/05/well-gis.html
+      link: https://spitimage.com/project/2012/03/05/well-gis.html
       description: Built a private web application to perform GIS-based data analysis on continually updating data sets. Application performed periodic data updates, user-initiated data transformation tasks, and GIS visualizations.
       skills:
        - Django
@@ -199,7 +199,7 @@ professional:
        - Google Maps
 
     - name: Signal Analysis
-      link: http://spitimage.com/project/2011/12/20/html5-realtime-plotting.html
+      link: https://spitimage.com/project/2011/12/20/html5-realtime-plotting.html
       description: Built a standards-based web UI as a front end to various communications and signal processing equipment. Also developed a proxy software service to translate between proprietary interfaces and a realtime JSON message-based protocol.
       skills:
        - HTML5 Canvas
@@ -246,7 +246,7 @@ professional:
 
 
  - name: Intelligent Software Solutions
-   link: http://issinc.com
+   link: https://issinc.com
    location: Colorado Springs, CO
    start: 12/2010
    end: 10/2011
@@ -267,7 +267,7 @@ professional:
        - PKI
 
  - name: RT Logic
-   link: http://rtlogic.com
+   link: https://rtlogic.com
    location: Colorado Springs, CO
    start: 12/2008
    end: 12/2010
@@ -288,7 +288,7 @@ professional:
        - Linux System Software
 
  - name: Raytheon Missile Systems
-   link: http://www.raytheon.com/
+   link: https://www.raytheon.com/
    location: Tucson, AZ
    start: 11/2004
    end: 12/2008
@@ -323,7 +323,7 @@ professional:
        - Embedded C++
 
  - name: Soneticom
-   link: http://www.drs.com/
+   link: https://www.drs.com/
    location: Melbourne, FL
    start: 10/2002
    end: 10/2004
@@ -348,7 +348,7 @@ professional:
 
 
  - name: Command Technologies
-   link: http://www.commtechinc.com/
+   link: https://www.commtechinc.com/
    location: Kennedy Space Center, FL
    start: 09/2000
    end: 10/2002
@@ -369,7 +369,7 @@ professional:
        - Architecture
 
  - name: Harris
-   link: http://harris.com/
+   link: https://harris.com/
    location: Melbourne, FL
    start: 04/1999
    end: 09/2000
@@ -392,7 +392,7 @@ professional:
 education:
  colleges:
   - name: Colorado School of Mines
-    link: http://mines.edu/
+    link: https://mines.edu/
     year: 1997
     degree: BSEE
 
