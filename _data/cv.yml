@@ -14,6 +14,7 @@ skills:
     - name: Javascript
     - name: Typescript
     - name: C++
+    - name: Rust
     - name: C
     - name: Java
     - name: SQL
@@ -23,12 +24,14 @@ skills:
    items:
     - name: NodeJS
     - name: ExpressJS
+    - name: SvelteKit
     - name: Django
     - name: Tornado
     - name: Remix
 
  - name: Front End Technologies
    items:
+    - name: Svelte
     - name: ReactJS
     - name: Redux
     - name: AngularJS
@@ -97,6 +100,20 @@ professional:
    summary: Consultant, CTO for hire, and software development contractor.
    projects:
 
+    - name: Fiber Optic Perimeter Security
+      link: https://huvr.com/
+      description: Developed geospatial visualizations and real time embedded software solutions for an advanced intruder detection system. 
+      skills:
+       - SvelteKit
+       - Embedded Linux
+       - Custom Networking Protocols
+       
+    - name: Software Defined Wide Area Network
+      description: Architected and built a POC for a protocol-agnostic mesh networking solution to address common VPN shortfalls. 
+      skills:
+       - Software Architecture
+       - C++
+       
     - name: Satellite Communications Open Architecture
       link: https://www.kratosdefense.com/
       description: Introduced new and effective approaches to DevSecOps. Unleashed hidden business potential by providing unique and platform-agnostic solutions. 
@@ -108,7 +125,7 @@ professional:
        - Openstack
        - Ansible Automation Platform
        - Bamboo
-       
+
     - name: Open Source Governance and DevSecOps Automation
       link: https://www.sonatype.com/
       description: Improved and extended the core data analytics pipeline infrastructure to increase processing capacity and enable infinite scaling for the industry leader in sofware supply chain management.
