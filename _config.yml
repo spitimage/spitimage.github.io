@@ -1,6 +1,6 @@
 # General Jekyll Config
 highlighter: rouge
-url: https://spitimage.com
+url: https://www.spitimage.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 markdown: kramdown
