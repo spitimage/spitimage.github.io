@@ -107,6 +107,7 @@ professional:
       description: Built the technology stack for a forward-leaning fitness company. Leveraged AI for massive productivity gains in planning, assessment, and workout adjustment.
       skills:
        - AI Agents
+       - Model Context Protocol
        - Claude Code
        
     - name: Software Defined Wide Area Network
@@ -122,12 +123,6 @@ professional:
        - SvelteKit
        - Embedded Linux
        - Custom Networking Protocols
-       
-    - name: Software Defined Wide Area Network
-      description: Architected and built a POC for a protocol-agnostic mesh networking solution to address common VPN shortfalls. 
-      skills:
-       - Software Architecture
-       - C++
        
     - name: Satellite Communications Open Architecture
       link: https://www.kratosdefense.com/
