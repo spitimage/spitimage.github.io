@@ -28,6 +28,7 @@ skills:
     - name: Django
     - name: Tornado
     - name: Remix
+    - name: LangChain
 
  - name: Front End Technologies
    items:
@@ -76,6 +77,7 @@ skills:
     - name: Android
     - name: HTML5 Hybrid
     - name: PWAs
+    - name: React Native
 
  - name: Testing
    items:
@@ -100,8 +102,21 @@ professional:
    summary: Consultant, CTO for hire, and software development contractor.
    projects:
 
+    - name: AI Fitness Management With Scalable Mobile Delivery and Progress Tracking
+      link: https://strong.togetherwon.com/
+      description: Built the technology stack for a forward-leaning fitness company. Leveraged AI for massive productivity gains in planning, assessment, and workout adjustment.
+      skills:
+       - AI Agents
+       - Claude Code
+       
+    - name: Software Defined Wide Area Network
+      description: Architected and built a POC for a protocol-agnostic mesh networking solution to address common VPN shortfalls. 
+      skills:
+       - Software Architecture
+       - C++
+       
     - name: Fiber Optic Perimeter Security
-      link: https://huvr.com/
+      link: https://airez.com/
       description: Developed geospatial visualizations and real time embedded software solutions for an advanced intruder detection system. 
       skills:
        - SvelteKit
